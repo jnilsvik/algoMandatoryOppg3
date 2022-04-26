@@ -13,6 +13,9 @@ public class Main {
                 {3, 17, 3, 9999, 0,    12},// E
                 {12, 12, 12, 12, 12,    0}};// F
 
+        // NetworkManagment problem1 = new NetworkManagment();
+        // problem1.dijkstra(graph, 0, 1);
+        
         p2 path = new p2();
         path.dijkstra(graph);
 
