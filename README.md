@@ -9,9 +9,15 @@ NetworkManagment.java er oppg A1
 p2.java er oppg A2
 (p2 innheolder mye av den samme koden fra i forrige oppgave, grunnet tidsbegrensninger)
 
-Main.java er kun satt opp for kjøre problem 2, da det er en utvidelse forrige kode
 resultatet skal se slik ut:
-
+p1:
+[A B] 			10
+[A C] 			5
+[A D] 			19
+[A E] 			3
+[A F] 			12
+_______________________
+p2:
 [A B] 10
 [A C] 5
 [A D] 19
